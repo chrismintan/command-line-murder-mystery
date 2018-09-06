@@ -1,0 +1,160 @@
+    1  pwd
+    2  pwd
+    3  ls
+    4  git config user.name
+    5  git config user.name
+    6  git config --global user.email
+    7  pwd
+    8  git config --global user.name
+    9  git config global user.name
+   10  git user.email
+   11  git config user.email
+   12  pwd
+   13  cmd + shift + .
+   14  brew install git
+   15  cmd
+   16  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   17  brew doctor
+   18  brew install git
+   19  git config --global user.name "chrismintan"
+   20  git config --global user.name
+   21  git config --global user.email "chris_acs@hotmail.com"
+   22  git config --global user.email
+   23  git config --global push.default simple
+   24  git config --global credential.helper osxkeychain
+   25  git credential-osxkeychain
+   26  ls -la ~
+   27  touch ~/.profile
+   28  echo 'alias sublime="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"' >> ~/.profile
+   29  sublime ~/Documents
+   30  echo 'alias sublime="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"' >> ~/.profile
+   31  sublime ~/Documents
+   32  ls -la
+   33  sublime ~/Documents
+   34  sublime ~/Documents
+   35  sublime .
+   36  sublime .
+   37  sublime ~/profile
+   38  sublime ~/.profile
+   39  git config --global core.editor "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl -w"
+   40  touch git-completion.bash
+   41  pwd
+   42  touch git-prompt.sh
+   43  pwd
+   44  cd documents
+   45  pwd
+   46  cd ..
+   47  p
+   48  pwd
+   49  ls -a
+   50  open .profile
+   51  open .
+   52  pwd
+   53  ls
+   54  cd wdi
+   55  ls
+   56  cd mystery/
+   57  ls
+   58  cd
+   59  ls
+   60  cd wd
+   61  cd wdi/
+   62  ls
+   63  cd mystery/
+   64  ls
+   65  cd command-line-murder-mystery/
+   66  ls
+   67  history
+   68  ls
+   69  ls -la
+   70  cd mystery/
+   71  ls
+   72  ls -la
+   73  cat crimescene
+   74  grep "CLUES" crimescene
+   75  cat crimescene | grep "CLUES"
+   76  ls -la
+   77  cat crimescene | grep "CLUE"
+   78  cat crimescene | grep CLUE
+   79  cat crimescene | grep CLUE
+   80  cat crimescene | grep ATM
+   81  cat crimescene | grep atm
+   82  ls -la
+   83  cat interviews
+   84  cd interviews/
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd ..
+   89  ls
+   90  cat hint1
+   91  cd mystery/
+   92  head -n 20 people
+   93  ls
+   94  cat people
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd mystery/
+   99  ls
+  100  cat crimescene | grep CLUE
+  101  ls
+  102  cat people | grep Annabel
+  103  cat vehicles | grep Annabel
+  104  cat vehicles
+  105  cat vehicles | grep Annabel
+  106  grep -A 1 "Annabel" vehicles
+  107  ls
+  108  cat crimescene | grep CLUE
+  109  grep -r "Annabel" *
+  110  grep -r "Buckingham Place" *
+  111  ls -la
+  112  cd interviews/
+  113  grep "Annabel Church" *
+  114  grep "Annabel" *
+  115  ls -la
+  116  grep "annabel" *
+  117  cd ..
+  118  ls
+  119  cd memberships/AAA
+  120  cd memberships/
+  121  cat AAA
+  122  CD ..
+  123  LS
+  124  CD ..
+  125  ls
+  126  cd ..
+  127  ls
+  128  grep -r "Annabel" *
+  129  grep -A 1 "Annabel" *
+  130  grep -B 1 "Height: 6"
+  131  ls
+  132  cat vehicles
+  133  grep -B 1 Height: 6 vehicles
+  134  grep -B 1 "Height: 6" vehicles
+  135  grep "New Zealand" *
+  136  grep -r "New Zealand" *
+  137  cat crimescene | grep CLUE
+  138  grep "Annabel" people
+  139  head -n 40 streets/ Hart_Place | tail -n 1
+  140  head -n 173 streets/Mattapan_Street | tail -n 1
+  141  -head -n 179 streets/Buckingham_Place | tail -n 1
+  142  -head -n 176 streets/Haley_Street | tail -n 1
+  143  ls -la
+  144  cat interviews/interview-9437737
+  145  ls
+  146  head -n 40 streets/Hart_Place
+  147  cat interviews/interview-47246024
+  148  head -n 179 streets/Buckingham_Place | tail -n 1
+  149  cat interviews/interview-699607
+  150  cat vehicles | grep Honda
+  151  cat vehicles
+  152  grep -A 4 Honda vehicles
+  153  cat vehicles
+  154  cat vehicles | grep L337
+  155  grep -A 5 "L337" vehicles
+  156  grep -r "Jeremy Bowers" *
+  157  grep -r "Joe Germuska" *
+  158  ls
+  159  cat crimescene | grep CLUE
+  160  history
