@@ -158,3 +158,5 @@
   158  ls
   159  cat crimescene | grep CLUE
   160  history
+
+KILLER: Jeremy Bowers
